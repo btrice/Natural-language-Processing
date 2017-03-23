@@ -1,5 +1,7 @@
 # Natural-language-Processing
 
+[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/btrice/Natural-language-Processing/blob/master/LICENSE)
+
 laplace bigram language model
 
 Unigram language model
